@@ -1,0 +1,57 @@
+In the name of God
+
+==============================
+1
+
+! Introduction
+? A + B
+? 1 to n
+
+==============================
+2
+
+? Is even
+? Divisors count
+? Is prime
+?*(x, y, z) | x <= y <= z <= n & x + y = z
+------------------------------
+?-(x, y, z) | x <= y <= z <= n & x + y = z
+?-(x, y, z) | x <= y <= z <= n & x^2 + y^2 = z^2 # And their count
+
+==============================
+3
+
+? (x, y, z) | x, y, z <= n
+? (x, y, z) | x <= y <= z <= n & x + y = z
+? (x, y, z) | x <= y <= z <= n & x^2 + y^2 = z^2
+?*Print an isosceles triangle with asterisks
+------------------------------
+? Print a right isosceles triangle with height n
+? Print a parallelogram with height n and width 20
+?-Print an isosceles triangle with height n
+?-Sum of n numbers
+?-All primes < n.
+
+==============================
+4
+
+? Print an isosceles triangle with height n
+? Sum of n numbers
+? All primes < n.
+------------------------------
+? Min and max of n numbers
+? Digits count
+
+==============================
+5
+
+! GCD, ladder method
+? GCD
+! Bubble sort
+?*Bubble sort
+------------------------------
+? List reverse and print
+? LCM
+? GCD and LCM of n numbers
+
+==============================
