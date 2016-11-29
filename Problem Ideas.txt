@@ -1,0 +1,9 @@
+In the name of God
+
+Count of digits
+Reverse a number
+
+Area of a triangle by the points
+
+Prime sieve
+Number with the most divisors
