@@ -55,3 +55,12 @@ In the name of God
 ? GCD and LCM of n numbers
 
 ==============================
+6
+
+? Bubble sort
+?%Insertion sort
+------------------------------
+? Fibonacci
+? Number < n with the most divisors
+
+==============================
