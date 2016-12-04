@@ -7,3 +7,9 @@ Area of a triangle by the points
 
 Prime sieve
 Number with the most divisors
+
+Power with O(lg n)
+Binary search
+
+Prime factorization
+
