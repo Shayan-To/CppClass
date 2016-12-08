@@ -13,3 +13,15 @@ Binary search
 
 Prime factorization
 
+Simple recursion
+	Factorial
+	Fibonacci
+	Combination
+	Reverse a string
+	GCD
+	Binary representation
+	Merge two sorted strings
+	BFS
+	Back-track
+	Print the elements of a vector getting the size
+	Towers of Hanoi
