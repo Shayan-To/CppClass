@@ -21,7 +21,8 @@ Simple recursion
 	GCD
 	Binary representation
 	Merge two sorted strings
-	BFS
+	Merge sort
+	DFS
 	Back-track
 	Print the elements of a vector getting the size
 	Towers of Hanoi
