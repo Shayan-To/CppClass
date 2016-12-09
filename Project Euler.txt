@@ -1,10 +1,25 @@
-1	-
-2	Fib
-3	PrimeFactorization
-4	PalindromeCheck
-5	LCM
-6	-
-7	PrimeSieve
-8	String
-9	-
-10	PrimeSieve
+1	Multiples of 3 & 5		-
+2	Even fib sum			Fib
+3	Largest prime factor		Prime factorization
+4	Largest pal product		Palindrome check
+5	LCM(1..20)			LCM
+6	Sum square diff			-
+7	10001st prime			PrimeSieve
+8	Largest prod in a string	String
+9	Special Pythagorean triple	-
+10	Sum of primes			PrimeSieve
+11	Largest prod in grid		2D array
+12	Triangular with most divisors	-
+13	Large sum			Big integer
+14	Longest Collatz seq (/2, *3+1)	-
+15	Number of paths from TL to BR	Dynamic programming
+16	Power digit sum			Big integer
+17	Number in letters		-
+18	Max path sum in triangle	Dynamic programming
+19	Counting Sundays		-
+20	Factorial digit sum		Big integer
+
+
+
+1	2	5	6	7
+9	10	12
