@@ -8,3 +8,32 @@ In the name of God
 
 ==============================
 2
+
+
+...
+
+==============================
+
+! Function definition
+! Recursive functions
+? Factorial
+? Fibonacci
+? GCD
+------------------------------
+? Combination
+
+==============================
+
+? Reverse a string
+? Binary representation
+? Merge two sorted strings
+?%Merge sort
+
+==============================
+
+! DFS
+? Grid of 01, path from tl to br exists?
+
+==============================
+
+?%Grid of 0-9, has a cycle of one color?
