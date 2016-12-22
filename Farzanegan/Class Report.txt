@@ -84,3 +84,10 @@ In the name of God
 ==============================
 9
 
+! String (size, [])
+? Get a string and n characters, index of
+! String (substr, +)
+?%Get a string and n strings, index of
+------------------------------
+
+==============================
