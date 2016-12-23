@@ -20,13 +20,13 @@ In the name of God
 ? Fibonacci
 ? GCD
 ------------------------------
-? Combination
+? Combination (nCr)
 
 ==============================
 
 ? Reverse a string
 ? Binary representation
-? Merge two sorted strings
+?%Merge two sorted strings
 ?%Merge sort
 
 ==============================

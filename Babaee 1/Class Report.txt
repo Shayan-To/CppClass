@@ -7,3 +7,9 @@ In the name of God
 
 ==============================
 2
+
+! Introduction (finished while)
+? a+b
+?%Print 1..100
+
+==============================
