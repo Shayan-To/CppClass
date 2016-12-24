@@ -1,0 +1,30 @@
+In the name of God
+
+Modular thinking, "for"
+int i = 0;
+while (i < n)
+{
+	+---------------+
+	| Put code here |
+	+---------------+
+	i++;
+}
+For enumeration, we have the module above. What should be done in each enumeration? Put it in the box.
+
+Aggregating
+Count
+Sum
+Max
+Min
+And (extra optimization)
+Or (extra optimization)
+...
+
+Enumerating multiples of k in 1..n
+for (int i = 1; i <= n / k; i++) {3 * i;}
+for (int i = k; i <= n; i += k) {i;}
+
+Char index in ASCII
+ch - 'A'
+ch - '0'
+

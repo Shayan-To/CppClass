@@ -85,11 +85,20 @@ In the name of God
 9
 
 ! String (size, [])
-? Get a string and n characters, index of
+? Get a string and n characters, occurences count
 ! String (substr, +)
-?%Get a string and n strings, index of
+?%Get a string and n strings, occurences count
 ------------------------------
 
 ==============================
 10
+
+? Get a string and n strings, occurences count
+? 746B Remove middle character of a string repeatedly, put them in a line (zopda -> podza)
+?%Reverse the previous action
+------------------------------
+? PE 4, 8
+
+==============================
+11
 
