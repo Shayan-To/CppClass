@@ -13,6 +13,7 @@ In the name of God
 ? Is even
 ? Divisors count
 ? Is prime
+? 1 to n that sum of divisors (except itself) equals itself
 ?*(x, y, z) | x <= y <= z <= n & x + y = z
 ------------------------------
 ?-(x, y, z) | x <= y <= z <= n & x + y = z
@@ -102,5 +103,14 @@ In the name of God
 ==============================
 11
 
+...
+
 ==============================
 12
+
+? Big integer addition
+------------------------------
+? PE 13
+
+==============================
+13
