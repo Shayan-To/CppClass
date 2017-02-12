@@ -1,5 +1,12 @@
 In the name of God
 
+- Simple problems
+    - A + B
+    - Print 1 to N
+    - Is even?
+    - Count of divisors
+    - Sum of divisors
+    - 1 to N that sum of divisors (except itself) equals itself
 - Vector
 - Array
     - Reverse a list
@@ -23,7 +30,8 @@ In the name of God
         - ...
     - GCD
     - Base change
-    - Power with logarithmic order
+    - Power 
+    - with logarithmic order
         1. $a^{10110} = a^{16} * a^4 * a^2$
         2. $a^b = (a^{b/2})^2 [*a]?$
     - Binary search
