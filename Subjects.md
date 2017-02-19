@@ -53,8 +53,8 @@ In the name of God
     - **746B:** Remove middle character of a string repeatedly, put them in a line (zopda -> podza)
     - Reverse the previous action
     - Base change, base > 10
-    - **745A:** Using rotates, how many different strings can we generate?
-    - **672B:** Min count of letters changed so that letters are distinct?
+    - **745A** Using rotates, how many different strings can we generate?
+    - **672B** Min count of letters changed so that letters are distinct?
 
 
 - Recursion
@@ -70,7 +70,14 @@ In the name of God
     - Merge sort
     - DFS
         - Grid of 01, path from top-left to bottom-right exists?
-        - Grid of 0-9, has a cycle of one color?
+        - **~510B** Grid of 0-9, has a cycle of one color?
+        - Graph DFS
+          - Number of components
+          - Has a cycle?
+          - Print parts of a bipartite graph
+        - **377A** Input a 01 grid (a maze). It is known that 1's are all connected. Change k other 0's to 1's so that the 1's all remain connected. Print "X"s in a "." and "#" grid.
+        - **580C** Input n and m, an n-vertex tree (edges), and a sequence of n 0 or 1's. The tree is rooted at vertex 1. Find number of leaves of the tree that has a path to root with at most m consecutive 1's.
+        - **115A** Input a rooted tree (parents). We want to divide its vertices into groups such that no two elements of a group are ancestors of each other. Minimum number of groups?
     - Back-track
 
 
