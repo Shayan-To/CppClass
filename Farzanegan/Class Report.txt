@@ -116,8 +116,27 @@ In the name of God
 13
 
 ! Introduction to functions
-? Reimplement big integer addition using functions
+? Reimplement big integer addition using functions {to_bignum(string): vector, show(vector), add_to(vector&, vector), mult_to(vector&, int), mult(vector, vector)}
 ------------------------------
 
 ==============================
 14
+
+? Continue implementing big integer
+------------------------------
+
+==============================
+15
+
+? Continue implementing big integer
+------------------------------
+
+==============================
+16
+
+? Continue implementing big integer
+------------------------------
+
+==============================
+17
+
