@@ -151,7 +151,7 @@ In the name of God
 
 ? GCD
 ? Print vector getting n
-? Hanoi
+?*Hanoi
 ------------------------------
 
 ==============================
