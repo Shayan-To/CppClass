@@ -50,7 +50,7 @@ In the name of God
 - String
     - Get a string and n characters, index of/occurences count
     - Get a string and n strings, index of/occurences count
-    - **746B:** Remove middle character of a string repeatedly, put them in a line (zopda -> podza)
+    - **746B** Remove middle character of a string repeatedly, put them in a line (zopda -> podza)
     - Reverse the previous action
     - Base change, base > 10
     - **745A** Using rotates, how many different strings can we generate?
