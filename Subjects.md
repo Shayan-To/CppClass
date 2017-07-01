@@ -70,7 +70,7 @@ In the name of God
     - Merge sort
     - DFS
         - Grid of 01, path from top-left to bottom-right exists?
-        - **~510B** Grid of 0-9, has a cycle of one color?
+        - ~**510B** Grid of 0-9, has a cycle of one color?
         - Graph DFS
           - Number of components
           - Has a cycle?
