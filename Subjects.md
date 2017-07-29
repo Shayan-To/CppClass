@@ -82,3 +82,7 @@ In the name of God
 
 
 - Dynamic Programming
+
+- Other
+    - Rotate a matrix 90degs
+    - Matrix operations
