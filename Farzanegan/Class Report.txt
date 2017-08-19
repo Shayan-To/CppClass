@@ -151,9 +151,69 @@ In the name of God
 
 ? GCD
 ? Print vector getting n
-? Hanoi
+?*Hanoi
 ------------------------------
+?-The remaining PE problems...
 
 ==============================
 
 19
+
+? Hanoi
+?*Reverse a string
+------------------------------
+?-The remaining PE problems...
+
+==============================
+
+20
+
+? Binary representation
+? Reverse a string
+?*Merge
+------------------------------
+
+==============================
+
+21
+
+? Merge
+? Merge sort
+------------------------------
+
+==============================
+
+22
+
+! DFS
+? Matrix of 0, 1; path from TL to BR
+------------------------------
+
+==============================
+
+23
+
+? Matrix of 0, 1; has a cycle?
+? Matrix of 0-9; has a cycle?
+------------------------------
+
+==============================
+
+24
+
+! Graph
+? Is graph connected?
+?%Number of components
+------------------------------
+
+==============================
+
+25
+
+? Parts of a bipartite graph, or fail
+?%580C
+------------------------------
+
+==============================
+
+26
