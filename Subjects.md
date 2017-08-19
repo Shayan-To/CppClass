@@ -69,5 +69,8 @@ In the name of God
         - **377A** Input a 01 grid (a maze). It is known that 1's are all connected. Change k other 0's to 1's so that the 1's all remain connected. Print "X"s in a "." and "#" grid.
         - **580C** Input n and m, an n-vertex tree (edges), and a sequence of n 0 or 1's. The tree is rooted at vertex 1. Find number of leaves of the tree that has a path to root with at most m consecutive 1's.
         - **115A** Input a rooted tree (parents). We want to divide its vertices into groups such that no two elements of a group are ancestors of each other. Minimum number of groups?
+        - **770C** Input n and k, then k numbers (1~n) (the nodes we MUST meet), then n lines: {get t, then t integers (1~(i-1)) (the parents of node i)}. If we meet a node, we must have met all its parents before. Output the minimum number of nodes to be met, then a correct sequence of meets.
     - Back-track
 - Dynamic Programming
+- Other problems
+    - **793B** Get n and m and an n*m grid (n lines) of '.', '*' (wall), 'T' and 'S'. Is there a way from 'S' to 'T' with at most two turns (direction switch)?
