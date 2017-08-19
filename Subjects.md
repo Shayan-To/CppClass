@@ -76,4 +76,6 @@ In the name of God
     - Back-track
 - Dynamic Programming
 - Other problems
+    - Rotate a matrix 90degs
+    - Matrix operations
     - **793B** Get n and m and an n*m grid (n lines) of '.', '*' (wall), 'T' and 'S'. Is there a way from 'S' to 'T' with at most two turns (direction switch)?
