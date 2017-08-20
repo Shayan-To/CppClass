@@ -69,13 +69,13 @@ In the name of God
         - **377A** Input a 01 grid (a maze). It is known that 1's are all connected. Change k other 0's to 1's so that the 1's all remain connected. Print "X"s in a "." and "#" grid.
         - **580C** Input n and m, an n-vertex tree (edges), and a sequence of n 0 or 1's. The tree is rooted at vertex 1. Find number of leaves of the tree that has a path to root with at most m consecutive 1's.
         - **115A** Input a rooted tree (parents). We want to divide its vertices into groups such that no two elements of a group are ancestors of each other. Minimum number of groups?
-        - **770C** Input n and k, then k numbers (1~n) (the nodes we MUST meet), then n lines: {get t, then t integers (1~(i-1)) (the parents of node i)}. If we meet a node, we must have met all its parents before. Output the minimum number of nodes to be met, then a correct sequence of meets.
+        - **770C** Input n and k, then k numbers (1\~n) (the nodes we MUST meet), then n lines: {get t, then t integers (1\~(i-1)) (the parents of node i)}. If we meet a node, we must have met all its parents before. Output the minimum number of nodes to be met, then a correct sequence of meets.
         - **832D** Input n and q, then a tree of n nodes, then q lines: {get a, b and c}. For three nodes a, b and c, define `f(a, b, c)` to be the number of common nodes in {the shortest path from a to b} and {the shortest path from a to c}. For each of the q lines, print maximum of `f(a, b, c)`, `f(b, c, a)` and `f(c, a, b)`.
         - **813C** We have a tree, and we play a game on it. Player A puts a piece on node 1, and player B puts one on node x. Player A wants to capture player B's piece, and player B is escaping. If the players are both smart enough, how many turns will the game last? Input n, x and n - 1 lines of edges.
         - **780C** Input a tree by edges. Color it with least colors so that for each a, b and c that a is a neighbour to b and c, they have distinct colors. Output the number of colors, and then the color of each node.
     - Back-track
 - Dynamic Programming
 - Other problems
-    - Rotate a matrix 90degs
-    - Matrix operations
+    - Rotate a matrix 90degs
+    - Matrix operations
     - **793B** Get n and m and an n*m grid (n lines) of '.', '*' (wall), 'T' and 'S'. Is there a way from 'S' to 'T' with at most two turns (direction switch)?
