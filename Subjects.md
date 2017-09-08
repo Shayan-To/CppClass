@@ -1,5 +1,7 @@
 In the name of God
 
+This book is a good reference: [Competitive Programmer's Handbook](https://cses.fi/book.html)
+
 - Simple problems
     - A + B
     - Print 1 to N
