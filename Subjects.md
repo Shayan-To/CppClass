@@ -73,7 +73,16 @@ In the name of God
         - **832D** Input n and q, then a tree of n nodes, then q lines: {get a, b and c}. For three nodes a, b and c, define `f(a, b, c)` to be the number of common nodes in {the shortest path from a to b} and {the shortest path from a to c}. For each of the q lines, print maximum of `f(a, b, c)`, `f(b, c, a)` and `f(c, a, b)`.
         - **813C** We have a tree, and we play a game on it. Player A puts a piece on node 1, and player B puts one on node x. Player A wants to capture player B's piece, and player B is escaping. If the players are both smart enough, how many turns will the game last? Input n, x and n - 1 lines of edges.
         - **780C** Input a tree by edges. Color it with least colors so that for each a, b and c that a is a neighbour to b and c, they have distinct colors. Output the number of colors, and then the color of each node.
-    - Back-track
+    - Backtrack
+        - Print all n-digit numbers in base b.
+        - A frog can jump 2, 4 or 5 cells foreward. Print all the sequences of jumps, with which it can get to cell n (or "Impossible" if no ways found).
+        - Print all subsets of {1, ..., n}.
+        - Print all the ways to create the value of n with coins of value 1, 2, 5 and 10.
+        - Print all the paths from between two given nodes in a graph.
+        - Assuming we can go up, down, left and right, print all the ways from top-left to bottom-right of a grid that goes through all the cells (input n, and n*n 0s or 1s).
+        - Assuming we can go up, down, left and right, print number of the ways from top-left to bottom-right of a grid (input n, and n*n 0s or 1s).
+        - Solve a Sudoku grid.
+        - Put n queens on an n*n chess board so that no two can attack each other.
 - Dynamic Programming
 - Other problems
     - Rotate a matrix 90degs
