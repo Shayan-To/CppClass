@@ -1,0 +1,133 @@
+﻿In the name of God
+
+https://en.wikipedia.org/wiki/Dynamic_programming
+================
+- Fib
+- How many 2N*2N matrices of 0s and 1s so that each row or column has exactly N 0s and N 1s.
+- N*N matrix with weighted cells. A piece can only move up, straight or diagonally, (-1, 1), (0, 1), or (1, 1). Minimum path from the first row to the last row (anywhere on the row).
+- We can do three operations on a sequence of integers: 1. Add an element to some place. 2. Remove an element. 3. Replace an element with another integer. Minimum number of operations needed to convert a sequence, A, to be like another one, B. (M^2 N, M N)
+https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm
+https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm
+- The above problem, now each of the operations have a different cost.
+- Hanoi moves count.
+- We have a building with H floors (numbered from 1 to H). We are dropping eggs from the building from different floors. An egg either breaks or not (nothing in between). An egg can be dropped as many times, as long as not broken. All eggs are the same. If an egg breaks in a fall, it would have broken in a higher fall. We want to find K, the max floor number that if we drop an egg from it, the egg would not break. If we have 1 egg, we need a maximum of H drops to find K. What is the max drop count if we have N eggs? (N H^2, N H log H, N log H)
+- We have matrices of different sizes, (A_1, ..., A_N). We want to calculate the multiplication of these matrices. How should we order/sort the multiplications (put parentheses around (A_1 * ... * A_N) so each "*" is between exactly two matrices) so that the operation takes the least time. (Multiplication of an X*Y matrix by a Y*Z matrix takes F(X, Y, Z) amount of time.)
+- https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+
+---
+
+https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/#!
+===============
+
+TC-R<round>-P<problem>:
+https://community.topcoder.com/tc?module=ProblemDetail&rd=round&pm=problem
+https://community.topcoder.com/stat?c=problem_statement&rd=round&pm=problem
+
+- We have any number of the coins of values V_1, ..., V_N. Find the least number of coins that their sum is S.
+- Longest non-decreasing/increasing subsequence.
+- In a simple graph, find the shortest path between two given nodes.
+- TC-R4493-P1259, TC-R5009-P2402, TC-R5006-P1918
+- In a table with weighted cells, find the largest path from top-left to bottom-right, going only down and right.
+- TC-R4709-P1889, TC-R4482-P1592
+- We have a graph with weighted vertices, the price of leaving the vertex. The initial money available is M. Find the shortest path between two given vertices (in terms of path length, not price). If more than one is found, give the cheapest one.
+- TC-R4705-P1166, TC-R4555-P1215, TC-R5072-P2829, TC-R4630-P1861
+- TC-R5854-P2940 We have an N*M matrix of integers. Find three paths from top-left to bottom right, going only down or right that are maximum. The score of the three paths is the sum of the numbers in the cells they cover, counting each cell only once (even if it is passed by multiple paths).
+- TC-R4710-P1996
+
+---
+
+https://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
+===============
+- In how many different ways can S be written as the sum of A_1, ..., A_N?
+- Number of ways of tiling a 3*N board with dominos (2*1).
+- Longest common subsequence.
+- Find the minimum number of elements needed to be added to a given sequence so that it becomes a palindrome.
+- Color the nodes of a tree black, so that no adjacent ones are both colored.
+- We have a graph with weighted edges. Find the least path that visits every node exactly once. (2 N^2 2^n)
+
+---
+
+https://www.codechef.com/wiki/tutorial-dynamic-programming
+==============
+- We can do three operations on an integer: 1. Subtract 1 from it. 2. Divide it by 2 if divisable. 3. Divide it by 3 if divisable. Find the least number of steps needed to convert N to 1.
+- Longest non-decreasing/increasing subsequence.
+- Longest common subsequence.
+
+- 0-1 Knapsack Problem, Matrix Chain Multiplication, Subset sum, Coin change, All to all Shortest Paths in a Graph, Assembly line joining or topographical sort
+- CodeChef-D2 We have a sequence of N integers. We can rotate the sequence as much as we want (obtaiting N different sequences). What is the longest increasing subsequence in all these N sequences?
+
+---
+
+http://www.algorithmist.com/index.php/Dynamic_Programming
+============
+- Subset sum: We have a set of coins C_1, ... C_N (any number of any). In how many ways can we make S?
+- Min-coin change: We have a set of coins C_1, ... C_N (any number of any). What is the least number of coins that can make S?
+
+---
+
+http://codeforces.com/blog/entry/325
+https://www.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Dynamic+Programming&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=
+https://leetcode.com/tag/dynamic-programming/
+https://www.hackerrank.com/domains/algorithms/dynamic-programming
+http://www.geeksforgeeks.org/category/algorithm/dynamic-programming/
+Great great great awesome one:
+http://www.geeksforgeeks.org/dynamic-programming/
+
+---
+
+- http://www.thelearningpoint.net/computer-science/algorithms-dynamic-programming---the-integer-knapsack-problem Knapsack problem: We have N items with weights W_1, ..., W_N, and values V_1, ..., V_N. Having a maximum weight W, what is the maximum value we can take? (N W)
+- http://www.thelearningpoint.net/computer-science/algorithms-dynamic-programming---matrix-chain-multiplication
+- http://www.thelearningpoint.net/computer-science/algorithms-dynamic-programming---longest-common-subsequence
+- http://www.thelearningpoint.net/computer-science/algorithms-all-to-all-shortest-paths-in-graphs---floyd-warshall-algorithm-with-c-program-source-code
+
+---
+
+http://20bits.com/article/introduction-to-dynamic-programming
+=============
+- Subarray with maximum sum. (the sequence may have negative numbers)
+- https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm
+- https://en.wikipedia.org/wiki/CYK_algorithm
+- https://en.wikipedia.org/wiki/Viterbi_algorithm
+- https://en.wikipedia.org/wiki/Hidden_Markov_model
+- https://en.wikipedia.org/wiki/Levenshtein_distance
+- https://en.wikipedia.org/wiki/Duckworth%E2%80%93Lewis_method
+
+---
+
+https://people.cs.clemson.edu/~bcdean/dp_practice/
+==========
+- Knapsack problem
+- Maximum value contiguous subsequence.
+- Making change (Min-coin change^^).
+- Longest increasing subsequence.
+- Box stacking: We have any number of the N boxes with dimensions W_1, ..., W_N, H_1, ..., H_N, D_1, ..., D_N (depth). We can put a box on top of another if the base rectangle of it is strictly inside the base rectangle of the lower one. How high can we get?
+- Building bridges: There are two lines of N points, half on line y=1, and the other half on y=-1. X coordinates of the points are given as A_1, ..., A_N, and B_1, ..., B_N. We can connect point A_I to point B_I for any I. Most number of connections with no crosses.
+- Integer knapsack problem (duplicate items forbidden): Knapsack problem having only one of every item.
+- Balanced partitions: We have N integers. Partition them into two sets so that the difference of their sums is minimum.
+- Edit distance: Convert sequence A to B using the three operations of add, remove and replace.
+- Counting boolean parenthesizations: Get a boolean expression, consisting of True, False, &, | and ^. In how many ways does it evaluate to True?
+- Optimal strategy for a game: We have a row of coins with values V_1, ... V_N. Two players take turns picking up a coin from one end of the row. How much will the first player win at least if they play optimally?
+
+---
+
+https://codility.com/media/train/15-DynamicProgramming.pdf
+==============
+- Knapsack problem modulo P.
+
+---
+
+Me
+==============
+- Coin change problem + We have a limited supply of coins. We can assume that if we have N of a coin, it has a value of 1/N for us (meaning that loosing it will make the machine have 1 less coins from N ones).
+
+
+
+
+
+
+
+
+
+
+
+
