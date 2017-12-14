@@ -96,7 +96,7 @@ http://20bits.com/article/introduction-to-dynamic-programming
 
 https://people.cs.clemson.edu/~bcdean/dp_practice/
 ==========
-- Knapsack problem
+- Knapsack problem: We have N items, with weights W_1, ..., W_N and values V_1, ..., V_N. We can carry at most weight W. What is the largest value we can carry?
 - Maximum value contiguous subsequence.
 - Making change (Min-coin change^^).
 - Longest increasing subsequence.
