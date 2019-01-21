@@ -1,6 +1,6 @@
 In the name of God
 
-This book is a good reference: [Competitive Programmer's Handbook](https://cses.fi/book.html)
+This book is a good reference: [Competitive Programmer's Handbook](https://cses.fi/book.html) ([github](https://github.com/pllk/cphb/))
 
 - Simple problems
     - A + B
