@@ -6,9 +6,21 @@ This book is a good reference: [Competitive Programmer's Handbook](https://cses.
     - A + B
     - Print 1 to N
     - Is even?
+    - All even less than N
     - Count of divisors
+    - Is prime?
     - Sum of divisors
     - 1 to N that sum of divisors (except itself) equals itself
+    - All primes less than N
+    - (x, y, z) | x, y, z <= n
+    - (x, y, z) | x <= y <= z <= n & x + y = z
+    - (x, y, z) | x <= y <= z <= n & x^2 + y^2 = z^2
+    - Min and max of n numbers
+    - Digits count
+- Star shapes!
+    - Print a right isosceles triangle with height n
+    - Print a parallelogram with height n and width 20
+    - Print an isosceles triangle with height n
 - Vector
 - Array
     - Reverse a list
